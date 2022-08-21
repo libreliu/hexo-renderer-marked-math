@@ -28,10 +28,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "hexo-util": "^2.5.0",
-    "marked": "^4.0.1",
     "dompurify": "^2.3.0",
-    "jsdom": "^19.0.0"
+    "hexo-util": "^2.5.0",
+    "jsdom": "^19.0.0",
+    "marked": "github:libreliu/marked#master"
   },
   "devDependencies": {
     "chai": "^4.2.0",
